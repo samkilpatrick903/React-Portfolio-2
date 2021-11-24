@@ -6,8 +6,10 @@
 .container{
     padding: 0 10rem;
     font-family: 'Roboto', sans-serif;
-    color: #e0e1ddff;
+    color: black;
     font-size: 15px;
+    text-align: justify;
+    text-justify: inter-word;
 
 }
 .img1{

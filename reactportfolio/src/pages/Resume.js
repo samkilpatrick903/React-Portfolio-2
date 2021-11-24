@@ -29,7 +29,7 @@ export default function Resume() {
         </ul>
       </div>
       <a href={Pdf} without rel="noopener noreferrer" target="_blank" className="resume-btn">
-          <button label="Resume">Download Resume</button>
+          <button label="Resume">View Resume</button>
         </a>
 
     </div>
