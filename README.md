@@ -22,9 +22,12 @@ WHEN the user is presented with the Resume section THEN they see a link to a dow
 WHEN the user is presented with the Skills section THEN they see a list of the my proficiencies
 WHEN the user views the footer THEN they are presented with text links to the my GitHub, LinkedIn profile and Stack Overflow.
 
-##Tech Stack
+## Tech Stack
 React
 JSK
+
+## Contributors
+Todd Taylor assisted with deployment
 
 
 
