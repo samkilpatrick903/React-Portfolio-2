@@ -1,6 +1,6 @@
-import logo from './logo.svg';
 import ProfileContainer from './components/ProfileContainer';
 import './App.css';
+import Footer from './pages/Footer.js';
 
 function App() {
   return (
@@ -19,6 +19,7 @@ function App() {
         >
         </a>
       </header> */}
+      <div><Footer /></div>
     </div>
     </div>
   );
